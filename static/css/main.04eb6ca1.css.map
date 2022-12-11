@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.04eb6ca1.css","mappings":"AAAA,EAIE,qBAAsB,CADtB,QAAS,CADT,SAGF,CAEA,MAEE,YACF","sources":["index.css"],"sourcesContent":["*\n{\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n}\n\n.main\n{\n  display: flex;\n}"],"names":[],"sourceRoot":""}
